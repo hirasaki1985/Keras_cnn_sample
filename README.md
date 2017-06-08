@@ -59,4 +59,4 @@ python sample.py -P -w ./weights/my_model_weights.h5
 
 ## Author
 
-[tcnksm](https://github.com/hirasaki1985)
+[mamoru hirasaki](https://github.com/hirasaki1985)
