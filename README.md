@@ -25,8 +25,8 @@ pip install h5py
 ```
 
 ### Add Train & Test Images
-* train images into 「test_images/cat or dog」
-* train images into 「test_images/cat or dog」
+* train images into 「train_images/cat or dog」
+* test images into 「test_images/cat or dog」
 
 ## Usage
 ### Traning
