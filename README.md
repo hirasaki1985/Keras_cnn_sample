@@ -19,9 +19,9 @@ $ conda create --name nn_sample python=2.7
 $ source activate nn_sample
 $ pip install Keras==1.2.0
 $ pip install numpy==1.11.2
-$ pip install tensorflow
-$ pip install opencv-python
-$ pip install h5py
+$ pip install tensorflow==1.1.0
+$ pip install opencv-python==3.2.0.7
+$ pip install h5py==2.7.0
 ```
 
 ### Add Train & Test Images
