@@ -128,7 +128,7 @@ def preprocess(images_path, labels, settings):
 
     for file in os.listdir(base_path):
       # get & update image
-      logger.info("read image file .... " + base_path + file)
+      logger.info("read image file .... " + base_path + "/" + file)
       image = cv2.imread(base_path + "/" + file)
       image = cv2.resize(image, (settings["image_x"], settings["image_y"]))
       logger.debug(image.shape)
